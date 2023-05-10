@@ -16,8 +16,8 @@ This project was undertaken as an opportunity to enhance programming skills and 
   - Provide 9 lines of input, each containing 9 digits separated by a space.
   - Press enter after each line.
 
-For example:
-<p align = "left">5 3 0 0 7 0 0 0 0</p>
+<p align = "left">For example:
+5 3 0 0 7 0 0 0 0
 6 0 0 1 9 5 0 0 0
 
 0 9 8 0 0 0 0 6 0
@@ -32,7 +32,7 @@ For example:
 
 0 0 0 4 1 9 0 0 5
 
-0 0 0 0 8 0 0 7 9
+0 0 0 0 8 0 0 7 9</p>
 
 6. The application will solve the Sudoku puzzle and display the solved grid on the screen:
 

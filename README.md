@@ -16,17 +16,25 @@ This project was undertaken as an opportunity to enhance programming skills and 
   - Provide 9 lines of input, each containing 9 digits separated by a space.
   - Press enter after each line.
 
-<p align = "left">
 For example:
+
 5 3 0 0 7 0 0 0 0
+
 6 0 0 1 9 5 0 0 0
+
 0 9 8 0 0 0 0 6 0
+
 8 0 0 0 6 0 0 0 3
+
 4 0 0 8 0 3 0 0 1
+
 7 0 0 0 2 0 0 0 6
+
 0 6 0 0 0 0 2 8 0
+
 0 0 0 4 1 9 0 0 5
-0 0 0 0 8 0 0 7 9</p>
+
+0 0 0 0 8 0 0 7 9
 
 6. The application will solve the Sudoku puzzle and display the solved grid on the screen:
 
@@ -51,7 +59,6 @@ For example:
 ##     <p align = "left"> Future Enhancements </p>
 
 While this Sudoku Solver project serves as a solid foundation for solving Sudoku puzzles, there are several potential areas for future improvement and expansion:
-
-Graphical user interface (GUI): Enhance the application by incorporating a GUI to provide a more user-friendly experience.
-Generate Sudoku puzzles: Extend the project to include a puzzle generator that can create Sudoku puzzles of varying difficulty levels.
-Solve puzzles step-by-step: Implement a feature that allows users to see the solving process step-by-step, helping them understand the logic behind each move.
+  - Graphical user interface (GUI): Enhance the application by incorporating a GUI to provide a more user-friendly experience.
+  - Generate Sudoku puzzles: Extend the project to include a puzzle generator that can create Sudoku puzzles of varying difficulty levels.
+  - Solve puzzles step-by-step: Implement a feature that allows users to see the solving process step-by-step, helping them understand the logic behind each move.

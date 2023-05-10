@@ -55,3 +55,11 @@ For example:
 2 8 7 4 1 9 6 3 5
 
 3 4 5 2 8 6 1 7 9
+
+##     <p align = "left"> Future Enhancements </p>
+
+While this Sudoku Solver project serves as a solid foundation for solving Sudoku puzzles, there are several potential areas for future improvement and expansion:
+
+Graphical user interface (GUI): Enhance the application by incorporating a GUI to provide a more user-friendly experience.
+Generate Sudoku puzzles: Extend the project to include a puzzle generator that can create Sudoku puzzles of varying difficulty levels.
+Solve puzzles step-by-step: Implement a feature that allows users to see the solving process step-by-step, helping them understand the logic behind each move.

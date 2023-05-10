@@ -62,3 +62,8 @@ While this Sudoku Solver project serves as a solid foundation for solving Sudoku
   - Graphical user interface (GUI): Enhance the application by incorporating a GUI to provide a more user-friendly experience.
   - Generate Sudoku puzzles: Extend the project to include a puzzle generator that can create Sudoku puzzles of varying difficulty levels.
   - Solve puzzles step-by-step: Implement a feature that allows users to see the solving process step-by-step, helping them understand the logic behind each move.
+
+##     <p align = "left"> Contribution </p>
+
+If you have any ideas, improvements, or bug fixes, please submit a pull request. 
+Your contributions can help enhance the project and make it even more valuable for learners and Sudoku enthusiasts.

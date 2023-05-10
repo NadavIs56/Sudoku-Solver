@@ -17,6 +17,7 @@ This project was undertaken as an opportunity to enhance programming skills and 
 • Press enter after each line.
 For example:
 5 3 0 0 7 0 0 0 0
+
 6 0 0 1 9 5 0 0 0
 0 9 8 0 0 0 0 6 0
 8 0 0 0 6 0 0 0 3

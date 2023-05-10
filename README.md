@@ -14,7 +14,7 @@ This project was undertaken as an opportunity to enhance programming skills and 
 
 5. Enter the Sudoku puzzle:   
 • Provide 9 lines of input, each containing 9 digits separated by a space. 
-• Press enter after each line.
+   • Press enter after each line.
 
 For example:
 5 3 0 0 7 0 0 0 0

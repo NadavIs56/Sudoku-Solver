@@ -3,7 +3,7 @@
 
 
 ##     <p align = "left"> How to use </p>
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine: 
 git clone https://github.com/NadavIs56/Sudoku-Solver.git
 
 2. Navigate to the project directory:   

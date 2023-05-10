@@ -3,16 +3,12 @@
 
 
 ##     <p align = "left"> How to use </p>
-1. Clone the repository to your local machine: 
-git clone https://github.com/NadavIs56/Sudoku-Solver.git
+1. Clone the repository to your local machine:   git clone https://github.com/NadavIs56/Sudoku-Solver.git
 
-2. Navigate to the project directory:   
-cd sudoku-solver
+2. Navigate to the project directory:   cd sudoku-solver
 
-3. Build the application using a C++ compiler:  
-g++ Driver.cpp -o sudoku
+3. Build the application using a C++ compiler:   g++ Driver.cpp -o sudoku
 
-4. Run the application:   
-./sudoku
+4. Run the application:   ./sudoku
 
 

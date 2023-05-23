@@ -2,7 +2,7 @@
 ##  <p align ="center" height="40px" width="40px"> The Sudoku Solver is a C++ application developed as a self-learning project during my first year of studies in Software Engineering. It takes a 9x9 Sudoku grid as input and solves it, displaying the solved Sudoku grid on the screen. 
 This project was undertaken as an opportunity to enhance programming skills and gain practical experience in problem-solving and algorithm implementation. By building a Sudoku solver, I aimed to deepen my understanding of data structures, algorithms, and software development practices.</p>
 
-
+<br>
 
 ### <p align ="center"> Implemented using: </p>
 <p align ="center">

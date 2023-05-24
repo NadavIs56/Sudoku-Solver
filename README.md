@@ -75,3 +75,7 @@ While this Sudoku Solver project serves as a solid foundation for solving Sudoku
 
 If you have any ideas, improvements, or bug fixes, please submit a pull request. 
 Your contributions can help enhance the project and make it even more valuable for learners and Sudoku enthusiasts.
+
+<br>
+
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>

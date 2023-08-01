@@ -6,6 +6,12 @@
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer">   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="40" height="40" /></a>
 </p>
 
+<br>
+
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+
+<br>
+
 <p align ="center">
 This project was undertaken as an opportunity to enhance programming skills and gain practical experience in problem-solving and algorithm implementation. By building a Sudoku solver, I aimed to deepen my understanding of data structures, algorithms, and software development practices.</p>
 
